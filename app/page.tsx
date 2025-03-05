@@ -347,7 +347,7 @@ export default function Home() {
                   </div>
                   <div className="flex items-center gap-2">
                     <Smartphone className="h-5 w-5 text-primary" />
-                    <p>+33 7 83 02 52 64</p>
+                    <p>+33 X XX XX XX XX</p>
                   </div>
                 </div>
               </div>
