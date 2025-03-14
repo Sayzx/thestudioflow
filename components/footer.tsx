@@ -7,10 +7,10 @@ export default function Footer() {
       <div className="container flex flex-col items-center justify-between gap-4 md:flex-row">
         <div className="flex items-center gap-2 font-bold">
           <Layers className="h-6 w-6" />
-          <span>The Studio Flow</span>
+          <span>Florent Detres</span>
         </div>
         <p className="text-center text-sm text-muted-foreground">
-          © {new Date().getFullYear()} The Studio Flow. Tous droits réservés.
+          © {new Date().getFullYear()} Florent Detres. Tous droits réservés.
         </p>
         <div className="flex gap-4">
           <Link href="#" className="text-sm font-medium hover:text-primary">

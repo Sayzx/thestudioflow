@@ -13,8 +13,8 @@ export default function HeroSection() {
                 Transformez vos idées en expériences numériques
               </h1>
               <p className="max-w-[600px] text-muted-foreground md:text-xl">
-                The Studio Flow est une agence de développement web spécialisée dans la création de solutions digitales
-                sur mesure.
+                Florent Detres est un développeur freelance passionné par la technologie et le développement informatique. 
+                il a fondé The Studio Flow pour aider les entreprises à créer des solutions digitales innovantes et performantes.
               </p>
             </div>
             <div className="flex flex-col gap-2 min-[400px]:flex-row">

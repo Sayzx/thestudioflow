@@ -15,7 +15,7 @@ export default function TestimonialsSection() {
             <div className="flex flex-col justify-between rounded-lg border p-6 shadow-sm">
               <div className="space-y-2">
                 <p className="text-muted-foreground">
-                  "The Studio Flow a transformé notre vision en une réalité numérique exceptionnelle. Leur expertise
+                  "Florent a transformé notre vision en une réalité numérique exceptionnelle. Leur expertise
                   technique et leur créativité ont dépassé nos attentes."
                 </p>
               </div>

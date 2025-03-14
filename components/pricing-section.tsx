@@ -16,7 +16,7 @@ export default function PricingSection() {
 
         <div className="mx-auto grid max-w-5xl gap-8 py-8 lg:grid-cols-3">
           {/* Offre 1: Site Vitrine */}
-          <div className="relative flex flex-col h-full rounded-xl border border-border bg-card p-6 shadow-sm transition-all duration-200 hover:shadow-md">
+          <div className="relative flex flex-col h-full rounded-xl border border-border bg-card p-6 shadow-sm transition-all duration-300 hover:shadow-md hover:scale-[1.02] hover:-translate-y-1">
             <div className="flex items-center justify-center h-12 w-12 rounded-full bg-primary/10 text-primary mb-4">
               <Layout className="h-6 w-6" />
             </div>
@@ -60,7 +60,7 @@ export default function PricingSection() {
           </div>
 
           {/* Offre 2: Site Dynamique */}
-          <div className="relative flex flex-col h-full rounded-xl border-2 border-primary bg-card p-6 shadow-md transition-all duration-200 hover:shadow-lg">
+          <div className="relative flex flex-col h-full rounded-xl border-2 border-primary bg-card p-7 shadow-md transition-all duration-300 hover:shadow-xl hover:scale-[1.05] hover:-translate-y-2 -mt-2 lg:-mt-4 z-10">
             <div className="absolute -top-3 right-4">
               <div className="bg-primary text-primary-foreground text-xs font-semibold px-3 py-1 rounded-full">
                 Populaire
@@ -110,7 +110,7 @@ export default function PricingSection() {
           </div>
 
           {/* Offre 3: Application Web */}
-          <div className="relative flex flex-col h-full rounded-xl border border-border bg-card p-6 shadow-sm transition-all duration-200 hover:shadow-md">
+          <div className="relative flex flex-col h-full rounded-xl border border-border bg-card p-6 shadow-sm transition-all duration-300 hover:shadow-md hover:scale-[1.02] hover:-translate-y-1">
             <div className="flex items-center justify-center h-12 w-12 rounded-full bg-primary/10 text-primary mb-4">
               <Code className="h-6 w-6" />
             </div>

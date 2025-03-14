@@ -8,7 +8,7 @@ export default function Header() {
       <div className="container flex h-16 items-center justify-between">
         <div className="flex items-center gap-2 font-bold text-xl">
           <Layers className="h-6 w-6" />
-          <span>The Studio Flow</span>
+          <span>Florent Detres</span>
         </div>
         <nav className="hidden md:flex gap-6">
           <Link href="#services" className="text-sm font-medium hover:text-primary">

@@ -13,8 +13,8 @@ export default function AboutSection() {
                 Une équipe passionnée par la technologie
               </h2>
               <p className="max-w-[600px] text-muted-foreground md:text-xl">
-                The Studio Flow est né de la passion pour le développement et la création d'expériences numériques
-                exceptionnelles.
+                Florent est passionné par la technologie et le développement informatique. Il a fondé The Studio Flow pour aider
+                les entreprises à créer des solutions digitales innovantes et performantes.
               </p>
             </div>
             <div className="space-y-2">
@@ -38,7 +38,7 @@ export default function AboutSection() {
             src="/image2.png?height=550&width=550"
             width={550}
             height={550}
-            alt="L'équipe The Studio Flow"
+            alt="Florent"
             className="mx-auto aspect-video overflow-hidden rounded-xl object-cover object-center sm:w-full lg:aspect-square"
           />
         </div>

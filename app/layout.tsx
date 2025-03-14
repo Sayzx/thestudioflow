@@ -5,8 +5,8 @@ import './globals.css'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'The Studio Flow - Agence de développement web',
-  description: 'The Studio Flow est une agence de développement web spécialisée dans la création de solutions digitales sur mesure.',
+  title: 'Florent Detres   - Développeur freelance',
+  description: 'Développeur freelance spécialisé dans la création de projets sur mesure pour les entreprises et les particuliers.',
 }
 
 export default function RootLayout({
